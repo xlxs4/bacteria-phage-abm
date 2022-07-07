@@ -2,6 +2,67 @@
 
 This is a far from complete attempt on toying around with NetLogo. Was my final essay for the ABM course on SFI. It's bad; proceed with care.
 
+The course was broken down into the following:
+1. What is Agent-Based Modeling?
+   1. An Initial Exploration
+   2. Introductory Models
+   3. Complex Models
+   4. Complexity, Emergence and Feedbacks
+   5. Why use Agent-Based Modeling?
+   6. When should you use Agent-Based Modeling?
+   7. Comparing Agent-Based Modeling to Other Methods
+   8. What Good is an Agent-Based Modeling?
+2. Building a Simple Model
+   1. Introduction to NetLogo
+   2. Turtles, Patches and Links
+   3. Code and Properties
+   4. Heroes and Cowards
+   5. Extending the Heroes and Cowards Model
+3. Extending Models
+   1. The El Farol Model
+   2. Coloring Agents based on Success
+   3. Understanding Rewards
+   4. Histograms
+   5. Advanced El Farol
+4. Creating Agent-Based Models
+   1. Design of the Model
+   2. Seven Design Choices
+   3. Beginning the Diffusion Model
+   4. Networks
+   5. Influentials and Analyzing the Model
+5. The Components of an Agent-Based Model
+   1. Architecture of an Agent-Based Model and Agents
+   2. Agent Granularity, Other Types of Agents, and Agent Cognition
+   3. Spatial and Network Environments
+   4. 3D and GIS Environments and Interactions
+   5. The Interface and Scheduling
+6. Analyzing Agent-Based Models
+   1. An Initial Investigation
+   2. Statistics (BehaviorSpace)
+   3. Graphs
+   4. Networks and Environments
+   5. Advanced Analysis
+7. Verification, Validation and Replication
+   1. Verification I
+   2. Verification II
+   3. Validation II
+   4. Validation II
+   5. Replication
+8. History of Agent-Based Models and Classic Models
+   1. Cellular Automata and Agent-Based Models
+   2. Genetic Algorithms, John Holland and Complex Adaptive Systems
+   3. Seymour Papert, Logo and the Turtle
+   4. OOP
+   5. Parallelism and Graphics
+9. Advanced ABM
+   1.  Big Data, Social Media and Agent-Based Modeling
+   2.  Model Construction and Goals
+   3.  Advanced NetLogo/Programming Constructs
+   4.  Participatory Simulation and System Dynamics Modeling
+   5.  Extensions
+
+The rest is from the NetLogo model built-in wiki.
+
 ## WHAT IS IT?
 
 This is a model simulating the coevolution dynamics between populations of bacteriophages and bacteria. Horizontal gene transfer, mutations, etc. are not modeled. There is some groundwork layed for incorporating the usage of antibiotics. The key part of this model is support for different environmental structures, heavily affecting the overall population dynamics.
