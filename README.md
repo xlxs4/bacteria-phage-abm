@@ -1,6 +1,6 @@
 # Description
 
-This is a far from complete attempt on toying around with NetLogo. Was my final essay for the ABM course on SFI. It's bad; proceed with care.
+Was my final essay for the ABM course on SFI.
 
 The course was broken down into the following:
 1. What is Agent-Based Modeling?
